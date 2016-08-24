@@ -1,0 +1,1 @@
+mjpg_streamer -i "input_file.so -f /home/peterb7/mjpg" -o "output_http.so -w www"
